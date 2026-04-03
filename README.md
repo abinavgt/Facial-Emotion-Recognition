@@ -1,6 +1,6 @@
 # **Facial Emotion Recognition**
 
-![Emotion Recognition]("C:\Users\91934\Downloads\phot.png")
+![Emotion Recognition](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1700033401/catalog/1724687931832266752/wptbrlspfn9mwbguki84.jpg)
 ## **Introduction**
 Emotion recognition is a significant task in computer vision that involves identifying human emotions based on facial expressions. This project leverages the FER2013 dataset to build a deep learning model capable of classifying images into seven emotions: **Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral**.
 
@@ -21,13 +21,13 @@ The project demonstrates the complete workflow of preprocessing the dataset, bui
 The **FER2013 dataset** consists of grayscale facial images, each of size 48x48 pixels, labeled with one of seven emotions. The dataset is organized into training and testing directories, with subdirectories for each emotion.
 
 ### **Emotions and Labels**
-- **Angry**: 0
-- **Disgust**: 1
-- **Fear**: 2
-- **Happy**: 3
-- **Sad**: 4
-- **Surprise**: 5
-- **Neutral**: 6
+- **Fear**: 0
+- **Nuetral**: 1
+- **Sad**: 2
+- **Angry**: 3
+- **Happy**: 4
+- **Disgust**: 5
+- **Surprise**: 6
 
 ---
 
